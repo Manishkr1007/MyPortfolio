@@ -338,11 +338,7 @@ nav .fa-solid{
 }
 /* ----------------------------css for small screens--------------------- */
 @media only screen and (max-width: 625px) {
-    #header{
-        background-image: url(images/phone-background.png);
-        
-
-    }
+  
     .header-text{
         margin-top:100% ;
          font-size: 16px;
